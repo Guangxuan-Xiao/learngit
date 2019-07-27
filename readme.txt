@@ -10,3 +10,7 @@ void dev1() {
 void dev2() {
     return;
 }
+
+void dev1 {
+    return;
+}
