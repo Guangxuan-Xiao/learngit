@@ -14,3 +14,7 @@ void dev2() {
 void dev1 {
     return;
 }
+
+void dev {
+    return;
+}
